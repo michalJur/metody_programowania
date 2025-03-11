@@ -37,7 +37,9 @@ Komentarz pod videoz: The point made at 14:30 is arguably the most important par
 
 ## Mierzenie wydajności kodu - profilowanie
 
-### (sekcja Podstawowe zasady - OBOWIĄZKOWA) ./profilowanie_poradnik.md
+### (sekcja Podstawowe zasady - OBOWIĄZKOWA) Poradnik profilowania kodu
+
+[Poradnik profilowania kodu](./profilowanie_poradnik.md)
 
 ## Szybki kod w Pythonie
 

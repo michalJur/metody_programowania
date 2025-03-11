@@ -1,9 +1,14 @@
-# Metody Programowania - 24/25
+# Metody Programowania - 24/25 
+
+<p align="center">
+  <img src="mp_logo.png" width="300">
+</p>
 
 ### Wprowadzenie
 
 W tym repozytorium znajdują się materiały z wykładu i ćwiczeń dla kursu ,,Metody Programowania". Kurs jest prowadzony dla studentów informatyki na Wydziale Matematyki i Informatyki Uniwersytetu Jagiellońskiego.
 
+Część materiałów (tak jak powyższa ilustracja) wygenerowana jest przy użyciu AI, ale wszystkie one są sprawdzone, skorygowane i uzupełnione przez wykładowcę.
 
 ### Tematyka kursu
 

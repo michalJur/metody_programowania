@@ -32,9 +32,9 @@ Podczas profilowania kodu ważne jest, aby stosować odpowiednią metodologię, 
    - **Biblioteki profilujące**: Korzystaj z uznanych bibliotek i narzędzi profilujących, które mogą dostarczyć szczegółowych informacji o wąskich gardłach, takich jak `cProfile`, `line_profiler` lub `Py-Spy` w Pythonie, lub narzędzia jak `gprof` dla C/C++. Te narzędzia pomagają zidentyfikować najwolniejsze funkcje lub te, które zużywają najwięcej czasu lub pamięci.
    - **Wizualizacja wyników**: Niektóre narzędzia oferują wizualizacje, takie jak wykresy płomieniowe lub wykresy wywołań, które ułatwiają zrozumienie wyników profilowania w bardziej złożonych przypadkach.
 
-### 7. **Profilowanie w Różnych Środowiskach**
+### 7. **Profilowanie w różnych środowiskach**
    - **Testuj na różnych konfiguracjach sprzętowych**: Wyniki profilowania mogą się różnić w zależności od CPU, pamięci, dysku twardego i konfiguracji sieci. Jeśli kod ma działać w różnych środowiskach (np. na instancjach chmurowych lub urządzeniach użytkowników), warto go profilować w różnych konfiguracjach.
 
-### 8. **Powtarzaj Profilowanie Po Zmianach**
+### 8. **Powtarzaj profilowanie po zmianach**
    - **Weryfikacja po optymalizacjach**: Po wprowadzeniu ulepszeń wydajnościowych lub zmian w kodzie, ponownie uruchom profilowanie, aby sprawdzić, czy optymalizacje rzeczywiście przyniosły poprawę. Ważne jest porównanie wyników przed i po przy użyciu tej samej metodologii.
    - **Benchmarking**: Jeśli to konieczne, przeprowadź "benchmarking" (porównanie wydajności różnych wersji kodu), aby zweryfikować, że jedna wersja jest rzeczywiście szybsza od drugiej.
