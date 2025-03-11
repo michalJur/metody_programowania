@@ -1,6 +1,7 @@
 # Wykład 1
 
 
+<br><br>
 ## Podstawy Pythona
 
 ### Popularność Pythona - ankieta Stack Overflow
@@ -18,6 +19,7 @@ https://www.learnpython.org/
 https://www.gov.pl/web/koduj/learnpythonorg
 > To samo, ale po polsku.
 
+<br><br>
 ## Wyszukiwanie w posortowaniej tablicy
 
 ### (OBOWIĄZKOWY) Wyszukiwanie liniowe i binarne
@@ -35,12 +37,15 @@ Komentarz pod videoz: The point made at 14:30 is arguably the most important par
 -->
 
 
+<br><br>
 ## Mierzenie wydajności kodu - profilowanie
 
 ### (sekcja Podstawowe zasady - OBOWIĄZKOWA) Poradnik profilowania kodu
 
 [Poradnik profilowania kodu](./profilowanie_poradnik.md)
 
+
+<br><br>
 ## Szybki kod w Pythonie
 
 Jak można zobaczyć w załączonej implementacji, kod napisany w Pythonie jest zdecydowanie wolniejszy niż C++. Wynika to z charakterystyki języka (dynamiczne typowanie, interpreter). Python odpłaca się wygodą i szybkim prototypowaniem. Nadal możemy pisać szybki kod w Pythonie używając zewnętrznych bibliotek (z algorytmami implementowanymi np. w C++) lub bibliotek wprowadzających kompilację kodu.
