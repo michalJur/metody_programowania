@@ -2,9 +2,7 @@
 
 ## Oznaczenia materiałów
 
-- OBOWIĄZKOWY - oznacza materiał obowiązkowy na kolokwia i egzamin (zadania będą zakładały znajomość i zrozumienie tych materiałów). Jeśli nie podano inaczej, tyczy się to całości strony dostępnej pod linkiem.
-
-Obowązkowe są również informacje zawarte w notatkach z wykładu.
+- OBOWIĄZKOWY - oznacza materiał obowiązkowy na kolokwia i egzamin (zadania będą zakładały znajomość i zrozumienie tych materiałów). Jeśli nie podano inaczej, tyczy się to całości strony dostępnej pod linkiem. **Uwaga: jeśli nie zaznaczono inaczej, obowązkowe są również informacje zawarte w notatkach z wykładu.**
 
 - rozrywka - materiał rozrywkowy, ale często mogący czegoś nauczyć
 
