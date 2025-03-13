@@ -19,6 +19,11 @@ https://www.learnpython.org/
 https://www.gov.pl/web/koduj/learnpythonorg
 > To samo, ale po polsku.
 
+### Real Python
+https://realpython.com/
+> Bardziej szczegółowe i zaawansowane materiały o konkretnych zagadnieniach.
+
+
 <br><br>
 ## Wyszukiwanie w posortowaniej tablicy
 
@@ -43,6 +48,9 @@ Komentarz pod videoz: The point made at 14:30 is arguably the most important par
 ### (sekcja Podstawowe zasady - OBOWIĄZKOWA) Poradnik profilowania kodu
 
 [Poradnik profilowania kodu](./profilowanie_poradnik.md)
+
+### Porównanie C++, Pythona i Pythona z Numpy
+[Folder z kodem](./kod)
 
 
 <br><br>

@@ -1,0 +1,1 @@
+# Egzamin pisemny odbędzie się 23 czerwca 2025 od 14:00 - 17:00 w salach 0004 i 0089.
