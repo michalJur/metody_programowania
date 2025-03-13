@@ -6,19 +6,29 @@ Materiały wykładowe - opis
 Egzamin - termin
  -->
 
-## Analiza algorytmów - definicje:
-- notacje asymptotyczne
-- operacja elementarna
-- niezmiennik algorytmu
-- własność stopu
+## Notacje asymptotyczne
 
 ### (O - Wprowadzenie, Notacja asymptotyczna) Ważniak - Matematyka Dyskretna, Wykład 9
 https://wazniak.mimuw.edu.pl/index.php?title=Matematyka_dyskretna_1/Wyk%C5%82ad_9:_Asymptotyka
 
-### (O - Wprowadzenie, Poprawność algorytmu: niezmienniki, własność stopu) Ważniak - Algorytmy i Struktury Danych, Wstęp 
+
+## Analiza algorytmów - definicje:
+- operacja dominująca (elementarna)
+- niezmiennik pętli / algorytmu
+- własność stopu
+
+
+### (O - Wprowadzenie, tylko definicje - operacja dominująca, niezmiennik algorytmu, własność stopu) Ważniak - Algorytmy i Struktury Danych, Wstęp 
 https://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych/Wst%C4%99p:_poprawno%C5%9B%C4%87_i_z%C5%82o%C5%BCono%C5%9B%C4%87_algorytmu
 
+### (O) Wikipadia - Operacja elementarna
+https://pl.wikipedia.org/wiki/Operacja_elementarna
 
+### (O) Wikipedia - Niezmiennik pętli
+https://pl.wikipedia.org/wiki/Niezmiennik_p%C4%99tli
+
+### (O - tylko definicja problemu stopu) Wikipedia - Problem stopu
+https://pl.wikipedia.org/wiki/Problem_stopu
 
 ## Zagadnienie: wyszukiwanie maksymalnej podtablicy
 - Naiwny O(N^3) (brute force)
