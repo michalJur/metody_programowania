@@ -4,53 +4,51 @@
 <br><br>
 ## Podstawy Pythona
 
-### Popularność Pythona - ankieta Stack Overflow
-https://survey.stackoverflow.co/
+- ### (O - sekcja Learn the Basics) learnpython.org
+  https://www.learnpython.org/
+  > Interaktywny kurs Pythona z możliwością uruchamiania kodu bezpośrednio w przeglądarce.
 
-### Interpreter Pythona online
-https://www.online-python.com/
+- ### (O - sekcja Learn the Basics) Polska wersja learnpython.org (polecana przez gov.pl)
+  https://www.gov.pl/web/koduj/learnpythonorg
+  > To samo, ale po polsku.
 
-### (sekcja Learn the Basics - OBOWIĄZKOWA) learnpython.org
-https://www.learnpython.org/
-> Interaktywny kurs Pythona - można pisać kod bezpośrednio w przeglądarce.
-> Szczególnie ważne są sekcje o listach, słownikach i funkcjach.
+- ### (d) Real Python
+  https://realpython.com/
+  > Bardziej szczegółowe materiały o konkretnych tematach.
 
-### Polska wersja learnpython.org (polecana przez gov.pl)
-https://www.gov.pl/web/koduj/learnpythonorg
-> To samo, ale po polsku.
+- ### (d) Popularność Pythona - ankieta Stack Overflow
+  https://survey.stackoverflow.co/
 
-### Real Python
-https://realpython.com/
-> Bardziej szczegółowe i zaawansowane materiały o konkretnych zagadnieniach.
+- ### (d) Interpreter Pythona online
+  https://www.online-python.com/
 
 
 <br><br>
 ## Wyszukiwanie w posortowaniej tablicy
 
-### (OBOWIĄZKOWY) Wyszukiwanie liniowe i binarne
-https://www.geeksforgeeks.org/linear-search-vs-binary-search/
+- ### (O) Wyszukiwanie liniowe i binarne
+  https://www.geeksforgeeks.org/linear-search-vs-binary-search/
 
-### (OBOWIĄZKOWY) Wyszukiwanie interpolacyjne
-https://www.geeksforgeeks.org/interpolation-search-in-python/
+- ### (O) Wyszukiwanie interpolacyjne
+  https://www.geeksforgeeks.org/interpolation-search-in-python/
 
-### Wyszukiwanie binarne - Computerphile
-https://www.youtube.com/watch?v=hDn8iOc30Tk
+- ### (d) Wyszukiwanie binarne - Computerphile
+  https://www.youtube.com/watch?v=hDn8iOc30Tk
 <!-- 
 "in" wolniejszy od binary search, bo nie zakłąda posortowanych danych i przeszukuje liniowo
 
-Komentarz pod videoz: The point made at 14:30 is arguably the most important part of this video. Specifically, it is less important to know how to write, from scratch, a particular algorithm than it is to know that different algorithms have different tradeoffs. Knowing how to pick the best algorithm (and data structures) for a particular situation is more important than being able to implement an algorithm on a whiteboard.
+Komentarz pod video: The point made at 14:30 is arguably the most important part of this video. Specifically, it is less important to know how to write, from scratch, a particular algorithm than it is to know that different algorithms have different tradeoffs. Knowing how to pick the best algorithm (and data structures) for a particular situation is more important than being able to implement an algorithm on a whiteboard.
 -->
 
 
 <br><br>
 ## Mierzenie wydajności kodu - profilowanie
 
-### (sekcja Podstawowe zasady - OBOWIĄZKOWA) Poradnik profilowania kodu
+- ### (O - sekcja Podstawowe zasady) Poradnik profilowania kodu
+  [Poradnik profilowania kodu](./profilowanie_poradnik.md)
 
-[Poradnik profilowania kodu](./profilowanie_poradnik.md)
-
-### Porównanie C++, Pythona i Pythona z Numpy
-[Folder z kodem](./kod)
+- ### (d) Porównanie C++, Pythona i Pythona z Numpy
+  [Folder z kodem](./kod)
 
 
 <br><br>
@@ -61,8 +59,8 @@ Jak można zobaczyć w załączonej implementacji, kod napisany w Pythonie jest 
 ### Przykłady bibliotek z algorytmami:
 
 - Numpy
-    > Podstawowa biblioteka dla operacji numerycznych (np. operacje na wektorach, macierzach).
-    > Implementuje większość operacji w C++.
+  > Podstawowa biblioteka dla operacji numerycznych (np. operacje na wektorach, macierzach).
+  > Implementuje większość operacji w C++.
 
 - SciPy
   > Zawiera zoptymalizowane implementacje wielu algorytmów.
@@ -83,7 +81,9 @@ Jak można zobaczyć w załączonej implementacji, kod napisany w Pythonie jest 
     
 ### Kompilatory JIT
 
-- PyPy (materiał na Computerphile: https://www.youtube.com/watch?v=d7KHAVaX_Rs)
+- (d) PyPy (materiał na Computerphile)
+
+  https://www.youtube.com/watch?v=d7KHAVaX_Rs
   > Just-In-Time compilation - kompilacja w trakcie działania programu.
   > PyPy to alternatywna implementacja Pythona z JIT.
   > Może przyspieszyć program bez zmian w kodzie źródłowym.

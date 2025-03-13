@@ -19,6 +19,7 @@
 - **Podstawy profilowania programów**
    - Metodyka pomiaru szybkości działania programu.
    - Porównanie implementacji wyszukiwania: C++, czysty Python, Python + Numpy.
+   - Szybkość implementacji (C++ vs Python) a analiza teoretyczna.
    - Komentarze odnośnie wydajności Pythona i jego bibliotek.
    - Praktyczne porównanie złożoności liniowej i logarytmicznej.
 
@@ -26,10 +27,9 @@
 
 - **Analiza złożoności czasowej i pamięciowej, analiza asymptotyczna**:
    - Notacje Big-O, Big-Ω, Big-Θ (najlepszy, najgorszy i średni przypadek).
-   - Kompromis między złożonością czasową a pamięciową.
-   - Szybkość implementacji (C vs Python) a analiza teoretyczna.
+   - Wprowadzenie złożonością czasowej i pamięciowej.
 
-- **Algorytmy (Maksymalny podciąg)**
+- **Algorytmy (Maksymalna podtablica)**
    - Naiwny O(N^3) (brute force)
    - Naiwny O(N^2)
    - Kadane O(N) (dziel i zwyciężaj)

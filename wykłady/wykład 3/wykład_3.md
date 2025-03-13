@@ -2,6 +2,11 @@
 
 <!-- https://www.youtube.com/watch?v=kgBjXUE_Nwc -->
 
+<!-- https://www.youtube.com/watch?v=pcJHkWwjNl4 -->
+
+
+<!-- https://www.youtube.com/watch?v=kgBjXUE_Nwc -->
+
 ## Sorting Secret - Computerphile (ciekawe spojrzenie na podobieństwo Insertion i Selection Sort)
 https://www.youtube.com/watch?v=pcJHkWwjNl4
 
