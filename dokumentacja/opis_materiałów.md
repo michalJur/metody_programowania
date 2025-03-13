@@ -1,20 +1,18 @@
-# Podstawowe informacje
-
-## Oznaczenia materiałów
+# Oznaczenia materiałów
 
 - OBOWIĄZKOWY (oznaczenie: O)
     - oznacza materiał obowiązkowy na kolokwia i egzamin,
     - zakładana będzie znajomość i zrozumienie tych materiałów,
-    - definicje i algorytmy trzeba umieć zapisać z pamięci (niekoniecznie słowo w słowo tak jak w materiałach, ale z zachowaniem matematycznej precyzji i sensu),
     - jeśli nie podano inaczej, tyczy się to całości strony dostępnej pod linkiem,
-    - w materiałach obowiązujący jest zawsze tylko kod napisany w pseudokodzie lub Pythonie,
+    - definicje i algorytmy trzeba umieć zapisać z pamięci (niekoniecznie słowo w słowo tak jak w materiałach, ale z zachowaniem matematycznej precyzji i sensu),
+    - wymagana jest umiejętność zapisania kodu w Pythonie lub pseudokodzie (dokładna znajomość składni innych języków nie jest wymagana),
     - **jeśli nie podano inaczej, obowiązkowe są wszystkie informacje zapisane w notatkach z wykładu.**.
 
 - dodatkowy (oznaczenie: d) - materiał "z gwiazdką", może przydać się bardziej zainteresowanym lub w przyszłości
 
 - rozrywka (oznaczenie: r) - materiał rozrywkowy, ale często mogący czegoś nauczyć
 
-## Przydatne materiały
+# Przydatne linki
 
 ### (d) Computerphile
 https://www.youtube.com/@Computerphile
