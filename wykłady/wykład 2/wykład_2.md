@@ -16,6 +16,7 @@ https://wazniak.mimuw.edu.pl/index.php?title=Matematyka_dyskretna_1/Wyk%C5%82ad_
 - operacja dominująca (elementarna)
 - niezmiennik pętli / algorytmu
 - własność stopu
+- poprawność algorytmu
 
 
 ### (O - Wprowadzenie, tylko definicje - operacja dominująca, niezmiennik algorytmu, własność stopu) Ważniak - Algorytmy i Struktury Danych, Wstęp 
@@ -29,6 +30,10 @@ https://pl.wikipedia.org/wiki/Niezmiennik_p%C4%99tli
 
 ### (O - tylko definicja problemu stopu) Wikipedia - Problem stopu
 https://pl.wikipedia.org/wiki/Problem_stopu
+
+### (O) Wikipedia - Poprawność częściowa i całkowita
+https://pl.wikipedia.org/wiki/Poprawno%C5%9B%C4%87_ca%C5%82kowita
+
 
 ## Zagadnienie: wyszukiwanie maksymalnej podtablicy
 - Naiwny O(N^3) (brute force)
