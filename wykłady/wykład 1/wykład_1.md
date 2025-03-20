@@ -81,7 +81,7 @@ Jak można zobaczyć w załączonej implementacji, kod napisany w Pythonie jest 
     
 ### Kompilatory JIT
 
-- (d) PyPy (materiał na Computerphile)
+- (p) PyPy (materiał na Computerphile)
 
   https://www.youtube.com/watch?v=d7KHAVaX_Rs
   > Just-In-Time compilation - kompilacja w trakcie działania programu.

@@ -1,15 +1,27 @@
 # Wykład 2
 
-<!--
-To co na ćwiczeniach
-Materiały wykładowe - opis
-Egzamin - termin
- -->
-
 ## Notacje asymptotyczne
 
 ### (O - Wprowadzenie, Notacja asymptotyczna) Ważniak - Matematyka Dyskretna, Wykład 9
 https://wazniak.mimuw.edu.pl/index.php?title=Matematyka_dyskretna_1/Wyk%C5%82ad_9:_Asymptotyka
+
+
+## Złożoność
+
+### (O) Wikipedia - Złożoność oczekiwana
+https://pl.wikipedia.org/wiki/Z%C5%82o%C5%BCono%C5%9B%C4%87_oczekiwana
+
+### (O) Wikipedia - Złożoność pesymistyczna
+https://pl.wikipedia.org/wiki/Z%C5%82o%C5%BCono%C5%9B%C4%87_pesymistyczna
+
+### Komentarze
+- złożoność może odnosić się do różnych zasobów, zazwyczaj czasu (liczba operacji) i pamięci (liczba komórek pamięci)
+- definicja złożoności optymistycznej - analogicznie, ale z $inf$
+- zbiór danych D w definicji może być indeksowany rozmiarem danych n (np. D_n := tablice liczb rzeczywistych o rozmiarze n)
+- możemy wyznaczyć złożoność optymistyczną ($opt$) / pesymistyczną  ($pes$) / oczekiwaną ($exp$) dla danych o określonym rozmiarze (i tak zazwyczaj robimy)
+- $opt(n) := \inf\{f(d):d\in D_n\}$
+- $pes(n) := \sup\{f(d):d\in D_n\}$
+- $exp(n) := \frac{1}{n}\sum_{d\in D_n} f(d)$
 
 
 ## Analiza algorytmów - definicje:

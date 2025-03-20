@@ -22,7 +22,7 @@ Podczas profilowania kodu ważne jest, aby stosować odpowiednią metodologię, 
 ### 4. **Uwzględnienie rozmiaru danych**
    - **Uwzględnij różne rozmiary danych wejściowych**: Upewnij się, że testujesz kod przy różnych rozmiarach danych wejściowych, ponieważ wydajność może się pogarszać wraz ze wzrostem danych (np. O(n^2) vs. O(log n)). Profilowanie w różnych zakresach danych wejściowych i korzystanie z asymptotycznej złożoności może pomóc przewidzieć zachowanie kodu przy skalowaniu.
 
-## (d) Dodatkowe pomysły:
+## (p) Dodatkowe pomysły:
 
 ### 5. **Profilowanie użycia pamięci**
    - **Mierz zużycie pamięci**: Oprócz czasu wykonania warto również profilować zużycie pamięci. Narzędzia takie jak `memory_profiler` lub `tracemalloc` w Pythonie pomagają śledzić alokację pamięci, wycieki i wzrost pamięci w trakcie profilowania.
