@@ -41,7 +41,8 @@ https://pl.wikipedia.org/wiki/Sortowanie)
 
 ### Counting Sort
 [(O) GeeksForGeeks - Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
-> Niska (liniowa) złożoność czasowa, będąca konsekwencją dodatkowego założenia o danych (częsty motyw w matematyce).
+> - Niska (liniowa) złożoność czasowa, będąca konsekwencją dodatkowego założenia o danych (częsty motyw w matematyce).
+> - Po stworzeniu sum prefixowych tablica countArray dla indexu i zawiera liczby opisujące w którym miejscu tablicy znajduje się pierwszy element większy od i.
 
 ### Radix Sort
 [(O) GeeksForGeeks - Radix Sort](https://www.geeksforgeeks.org/radix-sort/)
@@ -57,23 +58,36 @@ https://pl.wikipedia.org/wiki/Sortowanie)
 ## Inne materiały
 
 ### Materiały uzupełniające
+
 [(d) Radix Sort vs Bucket Sort](https://www.geeksforgeeks.org/radix-sort-vs-bucket-sort/?ref=lbp)
 
 [(d) YouTube - Insertion Sort in 2min](https://www.youtube.com/watch?v=JU767SDMDvA)
 
-### (r) Analizy i wizualizacje
-[(r) Getting Sorted & Big O Notation - Computerphile](https://www.youtube.com/watch?v=kgBjXUE_Nwc)
+### Analizy
+
+[(d) Computerphile - Getting Sorted & Big O Notation](https://www.youtube.com/watch?v=kgBjXUE_Nwc)
 
 [(p/r) YouTube - The Bubble Sort Curve](https://www.youtube.com/watch?v=Gm8v_MR7TGk)
+> Ciekawa analiza krzywej wyznaczanej przez Bubble Sort
+
+[(r) YouTube - Bubble-sort with Hungarian ("Csángó") folk dance](
+https://www.youtube.com/watch?v=lyZQPjUT5B4)
+> Sortowanie przez taniec
 
 [(r) 10 Forbidden Sorting Algorithms](https://www.youtube.com/watch?v=ktgxMtWMflU)
+
+[(d) Sorting Secret - Computerphile](https://www.youtube.com/watch?v=pcJHkWwjNl4)
+> Siekawe spojrzenie na podobieństwo Insertion i Selection Sort, uwaga - to różne algorytmy, ale przedstawiona reprezentacja (sieć sortująca) ich nie rozróżnia
+
+### Szalone wizualizacje
 
 [(r) YouTube - 15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
 [(r) YouTube - Pushing Sorts to their Limits](https://www.youtube.com/watch?v=8MsTNqK3o_w)
 
 
-### (r) Inne (od niewydajnych do absurdalnych) algorytmy sortowania
+### Inne (od niewydajnych do absurdalnych) algorytmy sortowania
+
 [(r) Wikipedia - Bogo Sort](https://pl.wikipedia.org/wiki/Bogosort)
 
 [(r) GeeksForGeeks - Bogo Sort](https://www.geeksforgeeks.org/bogosort-permutation-sort/)
@@ -85,23 +99,12 @@ https://pl.wikipedia.org/wiki/Sortowanie)
 
 
 <!--
-https://www.semanticscholar.org/paper/Sorting-the-Slow-Way%3A-An-Analysis-of-Perversely-Gruber-Holzer/a69e045125bdf7c017d3f84a68c0df4688298059?p2df -->
+https://www.semanticscholar.org/paper/Sorting-the-Slow-Way%3A-An-Analysis-of-Perversely-Gruber-Holzer/a69e045125bdf7c017d3f84a68c0df4688298059?p2df
 
+https://math.uni.wroc.pl/~jagiella/p2python/skrypt_html/wyklad1.html
 
-<!-- https://math.uni.wroc.pl/~jagiella/p2python/skrypt_html/wyklad1.html -->
+https://www.lucc.pl/inf/egzamin_inzynierski/kierunkowe/[K][5]%20Ocena%20zlozonosci%20algorytmow/tekst/1.pdf -->
 
-<!-- https://www.youtube.com/watch?v=8MsTNqK3o_w -->
-
-<!-- https://www.lucc.pl/inf/egzamin_inzynierski/kierunkowe/[K][5]%20Ocena%20zlozonosci%20algorytmow/tekst/1.pdf -->
-
-
-
-
-<!-- # Sorting Secret - Computerphile (ciekawe spojrzenie na podobieństwo Insertion i Selection Sort) -->
-<!-- Sorting Secret - Computerphile - uwaga - to różne algorytmy, ale przedstawiona reprezentacja ich nie rozróżnia -->
-<!-- https://www.youtube.com/watch?v=pcJHkWwjNl4 -->
-<!-- Komentarz: The missing technical term: This construction is a sorting network, just drawn in an unusual way. The basic point of the video is that sorting networks can't express the difference between insertion sort and selection sort. -->
-<!-- https://www.youtube.com/watch?v=kgBjXUE_Nwc -->
 
 
 

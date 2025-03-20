@@ -34,17 +34,13 @@
    - Naiwny O(N^2)
    - Kadane O(N) (dziel i zwyciężaj)
 
-## 3: **Podstawowe algorytmy sortowania i teoria złożoności**
+## 3: **Podstawowe algorytmy sortowania**
 
 - **Algorytmy (Sortowanie)**:
    - Sortowanie bąbelkowe
    - Sortowanie przez wybór
    - Sortowanie przez wstawianie
-   - Sortowanie przez systematyczne grupowanie (Radix sort)
-
-- **Podstawy teorii złożoności**:
-  - Problem P vs NP
-  - NP-kompletność (podstawowe wprowadzenie)
+   - Inne algorytmy (np. sortowanie przez zliczanie, sortowanie koszykowe)
 
 
 ## 4: **Listy i drzewa**
@@ -152,3 +148,8 @@
   - K-Najbliżsi sąsiedzi (k-NN)
   - Q-Learning
   - Monte Carlo Tree Search
+
+<!-- Inne:
+- **Podstawy teorii złożoności**:
+  - Problem P vs NP
+  - NP-zupełość (podstawowe wprowadzenie) -->
