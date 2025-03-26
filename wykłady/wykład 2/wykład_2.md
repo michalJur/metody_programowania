@@ -21,7 +21,7 @@ https://pl.wikipedia.org/wiki/Z%C5%82o%C5%BCono%C5%9B%C4%87_pesymistyczna
 - możemy wyznaczyć złożoność optymistyczną ($opt$) / pesymistyczną  ($pes$) / oczekiwaną ($exp$) dla danych o określonym rozmiarze (i tak zazwyczaj robimy)
 - $opt(n) := \inf\{f(d):d\in D_n\}$
 - $pes(n) := \sup\{f(d):d\in D_n\}$
-- $exp(n) := \frac{1}{n}\sum_{d\in D_n} f(d)$
+- $exp(n) := \frac{1}{|D|}\sum_{d\in D_n} f(d)$
 
 
 ## Analiza algorytmów - definicje:
