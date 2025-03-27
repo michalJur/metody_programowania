@@ -4,6 +4,7 @@
 - for i in ranage(0, N): for j in ranage(i, N): a[j]+=1
 - for i in ranage(0, N): for j in ranage(i, N): for k in ranage(j, N): a[k]+=1
 
+## Wolfram Alpha - zliczanie operacji
 https://www.wolframalpha.com/input?i2d=true&i=Sum%5BSum%5BSum%5B1%2C%7Bk%2Cj%2CN%7D%5D%2C%7Bj%2Ci%2CN%7D%5D%2C%7Bi%2C1%2CN%7D%5D
 
 ## Wyszukiwanie interpolacyjne

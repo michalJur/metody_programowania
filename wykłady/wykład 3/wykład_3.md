@@ -52,7 +52,9 @@ https://pl.wikipedia.org/wiki/Sortowanie)
 
 ### Bucket Sort
 [(O)  GeeksForGeeks - Bucket Sort](https://www.geeksforgeeks.org/bucket-sort-2/)
+> k := liczba kubełków
 
+[(O) Wikipedia - Bucket Sort](https://pl.wikipedia.org/wiki/Sortowanie_kube%C5%82kowe)
 
 
 ## Inne materiały
