@@ -62,8 +62,8 @@
 ## 5: **Rekurencja i zarządzanie pamięcią**
 
 - **Struktury danych**:
-   - Stosy
    - Kolejki 
+   - Stosy
 
 - **Teoria rekurencji**
    - Podstawy rekurencji: przypadki podstawowe, przypadki rekurencyjne.
