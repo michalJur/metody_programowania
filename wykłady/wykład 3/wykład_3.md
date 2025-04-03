@@ -43,6 +43,7 @@ https://pl.wikipedia.org/wiki/Sortowanie)
 [(O) GeeksForGeeks - Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
 > - Niska (liniowa) złożoność czasowa, będąca konsekwencją dodatkowego założenia o danych (częsty motyw w matematyce).
 > - Po stworzeniu sum prefixowych tablica countArray dla indexu i zawiera liczby opisujące w którym miejscu tablicy znajduje się pierwszy element większy od i.
+> - Uwaga: Przedstawiona wersja zakłada, że sortowane wartości są nieujemnymi liczbami naturalnym (rozszerzenie do liczb całkowitych - ćwiczenie). 
 
 ### Radix Sort
 [(O) GeeksForGeeks - Radix Sort](https://www.geeksforgeeks.org/radix-sort/)

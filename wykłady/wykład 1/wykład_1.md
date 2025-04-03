@@ -31,6 +31,7 @@
 
 - ### (O) Wyszukiwanie interpolacyjne
   https://www.geeksforgeeks.org/interpolation-search-in-python/
+> Uwaga: Przykładowy kod nie działa dla tablic o powtarzających się wartościach (Dlaczego? Jak to naprawić?)
 
 - ### (d) Wyszukiwanie binarne - Computerphile
   https://www.youtube.com/watch?v=hDn8iOc30Tk

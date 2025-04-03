@@ -7,32 +7,12 @@
 
 [(O) Lista podwójnie wiązana](https://www.geeksforgeeks.org/doubly-linked-list/)
 
-[(O) Lista "pierścieniowa"](https://www.geeksforgeeks.org/circular-linked-list/)
+[(O) Lista cykliczna](https://www.geeksforgeeks.org/circular-linked-list/)
 
 [(O) Zastosowania, zalety i wady list wiązanych](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/)
 
 
 [(d) Lista zagadnień związanych z listami wiązanymi](https://www.geeksforgeeks.org/linked-list-data-structure/)
-
-
-
-## Stosy
-
-[(O) Wprowadzenie do stosów](https://origin.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/)
-
-[(O) Implementacja stosu z użyciem tablicy](https://www.geeksforgeeks.org/implement-stack-using-array/)
-
-[(O) Implementacja stosu z użyciem listy pojedyńczo wiązanej](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/)
-
-
-[(O) Implementacja stosu z użyciem powójnej kolejki](https://www.geeksforgeeks.org/stack-implementation-using-deque/)
-
-[(O) Zastosowania, zalety i wady stosów](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-stack/)
-
-
-[(d) Lista zagadnień związanych ze stosami](https://www.geeksforgeeks.org/stack-data-structure/)
-
-
 
 
 ## Kolejki
@@ -52,6 +32,23 @@ https://www.geeksforgeeks.org/introduction-to-queue-data-structure-and-algorithm
 [(d) Lista zagadnień związanych z kolejkami](https://www.geeksforgeeks.org/queue-data-structure/)
 
 
+## Stosy
+
+[(O) Wprowadzenie do stosów](https://origin.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/)
+
+[(O) Implementacja stosu z użyciem tablicy](https://www.geeksforgeeks.org/implement-stack-using-array/)
+
+[(O) Implementacja stosu z użyciem listy pojedyńczo wiązanej](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/)
+
+
+[(O) Implementacja stosu z użyciem powójnej kolejki](https://www.geeksforgeeks.org/stack-implementation-using-deque/)
+
+[(O) Zastosowania, zalety i wady stosów](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-stack/)
+
+
+[(d) Lista zagadnień związanych ze stosami](https://www.geeksforgeeks.org/stack-data-structure/)
+
+
 ## Drzewa
 
 [(O) Wprowadzenie do drzew](
@@ -66,33 +63,28 @@ https://www.geeksforgeeks.org/types-of-trees-in-data-structures/)
 
 ## Drzewa binarne
 
-[(O) Wprowadzenie do drzew binarnych](
-https://www.geeksforgeeks.org/introduction-to-binary-tree/)
+[(O) Wprowadzenie do drzew binarnych](https://www.geeksforgeeks.org/introduction-to-binary-tree/)
 
-[(O) Przechodzenie po drzewie binarnym - Inorder](https://www.geeksforgeeks.org/inorder-traversal-of-binary-tree/)
-
-[(O) Przechodzenie po drzewie binarnym - Preorder](https://www.geeksforgeeks.org/preorder-traversal-of-binary-tree/)
-
-[(O) Przechodzenie po drzewie binarnym - Postorder](https://www.geeksforgeeks.org/postorder-traversal-of-binary-tree/)
-
-[(O) Przechodzenie po drzewie binarnym - Level Order](https://www.geeksforgeeks.org/level-order-tree-traversal/)
+[(O) Wyprowadzenie własności drzew binarnych](https://www.geeksforgeeks.org/properties-of-binary-tree/)
+> Podpunkt 2 - ze wzoru na sumę ciągu geometrycznego 
 
 
 [(d) Lista zagadnień związanych z drzewami binarnymi](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 
 
-## Binarne drzewa przszukiwań
-
-[(O) Wprowadzenie do BST](https://www.geeksforgeeks.org/introduction-to-binary-search-tree/)
-
-[(O) Wstawianie do BST](https://www.geeksforgeeks.org/insertion-in-binary-search-tree/)
-
-[(O) Wyszukiwanie w BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
-
-[(O) Usuwanie z BST](https://www.geeksforgeeks.org/deletion-in-binary-search-tree/)
 
 
-[(d) Lista zagadnień związanych z BST](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+
+## Inne materiały
+
+[(r) Wywiad z Linusem Torvaldsem - twórcą Linuxa (implementacja listy - od 14:18)](https://www.youtube.com/watch?v=o8NPllzkFhE)
+
+[(d) Computerphile - Linked Lists](https://www.youtube.com/watch?v=_jQhALI4ujg)
+
+[(d) Computerphile - Arrays vs Linked Lists](https://www.youtube.com/watch?v=DyG9S9nAlUM)
+
+
+
 
 
 
@@ -117,26 +109,8 @@ https://www.geeksforgeeks.org/perfect-binary-tree/
  -->
 
 
-
-
-
-## Inne materiały
-
-[(r) Wywiad z Linusem Torvaldsem - twórcą Linuxa (implementacja listy - od 14:18)](https://www.youtube.com/watch?v=o8NPllzkFhE)
-
-[(d) Computerphile - Linked Lists](https://www.youtube.com/watch?v=_jQhALI4ujg)
-
-[(d) Computerphile - Arrays vs Linked Lists](https://www.youtube.com/watch?v=DyG9S9nAlUM)
-
-
-
+ 
+<!-- Garbage collector się wywala jeśli mamy reference counting w liście pierścieniowj i usuniemy wskaźnik na głowę -->
 
 <!-- Why you should avoid Linked Lists - Bjarne Stroustrup
 -->
-
-<!-- 
-Grupa 1 - złożoność count sorta: n+m (powiedziałem m) -->
-
-<!-- Counting Sort - tylko liczby > 0 (możliwe modyfikacje) -->
-
-<!-- Błąd w kodzie w interpolacyjnym - GFG, same dwójki w tablicy, dzielenie przez 0 -->
