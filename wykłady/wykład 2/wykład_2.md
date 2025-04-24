@@ -14,6 +14,9 @@ https://pl.wikipedia.org/wiki/Z%C5%82o%C5%BCono%C5%9B%C4%87_oczekiwana
 ### (O) Wikipedia - Złożoność pesymistyczna
 https://pl.wikipedia.org/wiki/Z%C5%82o%C5%BCono%C5%9B%C4%87_pesymistyczna
 
+### (r) Fireship - Big-O Notation in 100 Seconds
+https://www.youtube.com/watch?v=g2o22C3CRfU
+
 ### Komentarze
 - złożoność może odnosić się do różnych zasobów, zazwyczaj czasu (liczba operacji) i pamięci (liczba komórek pamięci)
 - definicja złożoności optymistycznej - analogicznie, ale z $inf$

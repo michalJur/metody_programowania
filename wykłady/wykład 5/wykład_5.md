@@ -42,7 +42,6 @@ levelorder
 
 [(O - ogólna idea, bez algorytmów) Wprowadzenie do drzew zbalansowanych](https://www.geeksforgeeks.org/self-balancing-binary-search-trees/?ref=shm)
 
-
 [(d) Przykłd: drzewa AVL](https://www.geeksforgeeks.org/introduction-to-avl-tree/?ref=shm)
 
 
@@ -61,4 +60,5 @@ https://www.youtube.com/watch?v=TrfcJCulsF4)
 
 [(d) Zastosowanie ONP](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 
+<!-- a + b * c vs a * c + b - działanie zamiany z Infix na ONP na tym przykładzie -->
 <!-- Zamiana z ONP na Infix - na ćwiczeniach, minimalna liczba nawiasów - samodzielnie -->

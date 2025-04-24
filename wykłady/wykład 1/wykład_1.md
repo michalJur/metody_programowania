@@ -88,3 +88,11 @@ Jak można zobaczyć w załączonej implementacji, kod napisany w Pythonie jest 
   > Just-In-Time compilation - kompilacja w trakcie działania programu.
   > PyPy to alternatywna implementacja Pythona z JIT.
   > Może przyspieszyć program bez zmian w kodzie źródłowym.
+
+<!-- https://www.youtube.com/watch?v=BCuJXskWgSI
+
+https://www.youtube.com/watch?v=gaC0ENaiKc0
+
+https://www.youtube.com/watch?v=bC428xPW1H8 
+
+Lecture on speed of Pythin (type of eech memory fragment has to be checked)-->

@@ -51,4 +51,4 @@ https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa
 ### (r) Fireship
 https://www.youtube.com/@Fireship
 > Krótkie i zabawne filmy o programowaniu i technologiach.
-> Polecane do szybkiego zapoznania się z nowymi technologiami.
+> Polecane do szybkiego zapoznania się z nowościami.

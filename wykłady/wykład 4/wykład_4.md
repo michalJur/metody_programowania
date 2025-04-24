@@ -109,7 +109,8 @@ https://www.geeksforgeeks.org/perfect-binary-tree/
  -->
 
 
- 
+<!-- Przykład stosu - zabawkowa wieża Hanoi -->
+
 <!-- Garbage collector się wywala jeśli mamy reference counting w liście pierścieniowj i usuniemy wskaźnik na głowę -->
 
 <!-- Why you should avoid Linked Lists - Bjarne Stroustrup

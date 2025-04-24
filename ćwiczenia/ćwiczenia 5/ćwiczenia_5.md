@@ -3,8 +3,8 @@
 - Lista pojedyńczo wiązana
 - Lista podwójnie wiązana
 - Lista cykliczna
-- Stos
 - Kolejka
+- Stos
 
 Dla każdego z powyższych:
 - zalety, wady
