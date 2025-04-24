@@ -62,3 +62,8 @@ https://www.youtube.com/watch?v=TrfcJCulsF4)
 
 <!-- a + b * c vs a * c + b - działanie zamiany z Infix na ONP na tym przykładzie -->
 <!-- Zamiana z ONP na Infix - na ćwiczeniach, minimalna liczba nawiasów - samodzielnie -->
+
+<!-- UWAGA: jaka definicja drzewa BST (nierówności)?  -->
+<!-- Jeśli słaba po prawej, to lepiej wybrać przy usuwaniu opcję z pójściem na prawo i na maxa na lewo -->
+
+<!-- UWAGA: Prefix / Postfix + Infix jednoznacznie zadaje drzewo - Dowód -->
