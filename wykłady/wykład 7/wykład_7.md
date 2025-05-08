@@ -17,18 +17,6 @@
 
 
 ----------- -->
-<!-- 
-Wcześniejszy wykład
-# Dziel i rządź
-https://en.wikipedia.org/wiki/Divide_and_conquer
-
-https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
-
-https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm/
-
-
-Rekursja -  https://www.w3schools.com/dsa/dsa_algo_simple.php
--------------------- -->
 
 
 
@@ -52,7 +40,7 @@ Rekursja -  https://www.w3schools.com/dsa/dsa_algo_simple.php
 [(d) Dowód na optymalność kodowania Huffmana - precyzyjny](https://www.cs.utoronto.ca/~brudno/csc373w09/huffman.pdf)
 
 [(d) Dowód na optymalność kodowania Huffmana - opisowy](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/HuffProof.html)
-> Końcówka dowodu wymaga doprecyzowania (czemu T' może być skonstruowane przez algorytm Huffmana - bo suma dwóch najmniejszych wartości jest najmniejsza wśród sum jakichkolwiek par, więc węzeł łączący jest na wlaściwym miejscu)
+> Końcówka dowodu wymaga doprecyzowania (czemu T' może być skonstruowane przez algorytm Huffmana - bo suma dwóch najmniejszych wartości jest najmniejsza wśród sum jakichkolwiek par, więc węzeł łączący jest na właściwym miejscu)
 
 <!-- https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/ -->
 <!-- Nie musimy stosować min-kopca (poznamy go później), złożoność też wynika z właściwości kopca -->

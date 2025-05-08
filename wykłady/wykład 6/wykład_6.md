@@ -76,6 +76,17 @@ Hanoi
 [(O) Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
 
 
+
+## Dziel i rządź
+https://en.wikipedia.org/wiki/Divide_and_conquer
+
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
+
+https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm/
+
+Rekursja -  https://www.w3schools.com/dsa/dsa_algo_simple.php
+
+
 ## Merge Sort
 
 [(O) Merge Sort - GFG](https://www.geeksforgeeks.org/merge-sort/)
@@ -107,3 +118,6 @@ Hanoi
 ## Inne materiały
 
 [(d) Recursive Ray Tracing - Computerphile](https://www.youtube.com/watch?v=nOCPpT-Sn0A)
+
+
+https://www.youtube.com/watch?v=KzT9I1d-LlQ
