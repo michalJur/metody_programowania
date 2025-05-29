@@ -120,4 +120,5 @@ Rekursja -  https://www.w3schools.com/dsa/dsa_algo_simple.php
 [(d) Recursive Ray Tracing - Computerphile](https://www.youtube.com/watch?v=nOCPpT-Sn0A)
 
 
-https://www.youtube.com/watch?v=KzT9I1d-LlQ
+<!-- One second to compute the largest Fibonacci number I can:
+ https://www.youtube.com/watch?v=KzT9I1d-LlQ -->

@@ -17,7 +17,7 @@
 
 ## Selekcja
 
-[(O) Selection Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Selection_algorithm)
+[(O - tylko ogólna idea) Selection Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Selection_algorithm)
 
 ### Algorytm Hoare'a (Quick Select)
 
@@ -34,3 +34,7 @@
 [(d) Wizualizacja dla algorytmu magicznych piątek - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/2e/Mid-of-mid.png)
 
 [(p) Master Theorem - Brilliant](https://brilliant.org/wiki/master-theorem/)
+
+<!-- Dopisać ogranicznia na Wikipedię -->
+<!-- Sprawdzić algorytm Hoare / Lomuto -->
+<!-- https://www.youtube.com/watch?v=_xp5FdAvIK8 -->
