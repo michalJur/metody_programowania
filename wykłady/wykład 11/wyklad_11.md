@@ -5,7 +5,7 @@
 [(O) Introduction to Heap - GFG](https://www.geeksforgeeks.org/introduction-to-heap/)
 
 [(O, bez Summary of running times i dowodu złożoności w Building a heap) Binary heap - Wikipedia](https://en.wikipedia.org/wiki/Binary_heap)
-- Uwagi do dowodu złożoności w Building a heap ([lepsza wersja](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture4.pdf))
+- Uwagi do dowodu złożoności w *Building a heap* ([lepsza wersja](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture4.pdf))
     - "...the number of nodes at height h" to $\frac{n}{2^{h+1}}$ zamiast $\frac{n}{2^h}$,
     - drugą równość w finalnej sumie (zamiana n na nieskończoność) lepiej zastąpić nierównością.
 
