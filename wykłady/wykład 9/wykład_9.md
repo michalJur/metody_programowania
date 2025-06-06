@@ -41,15 +41,16 @@ Visited w dziwnym miejscu -->
 
 
 
-## Wyznaczanie najkrótszych ścieżek: Algorytm Dijkstry
+## Algorytm Dijkstry
 
 [(O) Algorytm Dijkstry - Wikipedia](https://pl.wikipedia.org/wiki/Algorytm_Dijkstry)
 
 
 - Ogólne uwagi
-    - Istotne założenie - graf nie może zawierać krawędzi o negatywnych wagach (to założenie jest wykorzystywane w dowodzie poprawności)
-    - Przechowując tablicę z poprzednikami jesteśmy w stanie odtworzyć ścieżkę wyznaczoną przez algorytm (od końca idziemy do poprzednika, poprzednika poprzednika itd.)
-    - W niektórych implementacjach wykorzystwany jest kopiec binarny jako kolejka priorytetowa (poznamy go później).
+    - Służy do wyznaczania najkrótszych ("najtańszych") ścieżek z określonego źródła do wszystkich wierzchołków (co jest wymagane również do tego, by znaleźć najkrótszą ścieżkę między ustaloną parą wierzchołków).
+    - Istotne założenie - **graf nie może zawierać krawędzi o negatywnych wagach** (to założenie jest wykorzystywane w dowodzie poprawności).
+    - Przechowując tablicę z poprzednikami jesteśmy w stanie odtworzyć ścieżkę wyznaczoną przez algorytm (od końca idziemy do poprzednika, poprzednika poprzednika itd.).
+    - W niektórych implementacjach wykorzystywany jest kopiec binarny jako kolejka priorytetowa (poznamy go później).
 
 - Uwagi do dowodu
     - "...przejście przez jakikolwiek inny wierzchołek spoza *S* [do *u*] dałoby od razu co najmniej tak samo długą ścieżkę" - ponieważ odległość do *u* jest najmniejsza, to jeśli istniałaby ścieżka prowadząca przez *w* spoza *S*, droga do *w* musiałaby być krótsza - sprzeczność z minimalnością *u*.
@@ -83,7 +84,7 @@ https://cp-algorithms.com/index.html
 https://courses.grainger.illinois.edu/cs225/fa2022/resources/bfs-dfs/
 
 https://www.w3schools.com/dsa/dsa_algo_graphs_traversal.php
-<!-- BFS nie powinien zaznaczać visited od razu - inaczej po zaminaie kolejki na stos to nie jest DFS
+<!-- BFS nie powinien zaznaczać visited od razu - inaczej po zamianie kolejki na stos to nie jest DFS
 
 <!-- BFS znajduje najkrótszą ścieżkę względem długości krawędzi
 
