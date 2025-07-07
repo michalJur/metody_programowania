@@ -35,6 +35,9 @@
 
 - ### (d) Wyszukiwanie binarne - Computerphile
   https://www.youtube.com/watch?v=hDn8iOc30Tk
+  https://www.youtube.com/watch?v=_eS-nNnkKfI
+
+
 <!-- 
 "in" wolniejszy od binary search, bo nie zakłąda posortowanych danych i przeszukuje liniowo
 
