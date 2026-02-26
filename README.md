@@ -1,4 +1,4 @@
-# Metody Programowania - 24/25 
+# Metody Programowania - 25/26 
 
 <p align="center">
   <img src="mp_logo.png" width="300">
