@@ -22,20 +22,34 @@ Jeśli prowadzący ćwiczenia nie ustali inaczej, obecność na ćwiczeniach jes
 
 ## Zasady zaliczania przedmiotu
 
-Egzamin ma formę pisemną; można z niego uzyskać maksymalnie 40 punktów.
+Egzamin ma formę pisemną. Można z niego uzyskać maksymalnie 40 punktów.
 
 Warunkiem zaliczenia przedmiotu jest:
 - uzyskanie z egzaminu co najmniej 20 punktów,
 - uzyskanie łącznej liczby punktów z ćwiczeń i egzaminu wynoszącej co najmniej 50 punktów.
 
-Ocena końcowa z przedmiotu wyznaczana jest na podstawie sumy punktów z ćwiczeń i egzaminu. Łącznie można uzyskać 100 punktów. Dokładną skalę ocen przedstawia poniższa tabela:
-- [0, 50) pkt – ndst
-- [50, 60) pkt – dst
-- [60, 70) pkt – dst+
-- [70, 80) pkt – db
-- [80, 90) pkt – db+
-- [90, 100] pkt – bdb
+Do egzaminu można przystąpić z oceną 2.0 z ćwiczeń. W takim przypadku, jeśli student/ka spełni warunki zaliczenia przedmiotu, otrzymuje ocenę końcową wynikającą z poniższej tabeli. Do protokołu z ćwiczeń wpisywana jest wówczas ocena 3.0.
 
-Do egzaminu można przystąpić z oceną 2.0 z ćwiczeń. W takim przypadku, jeśli student/ka spełni warunki zaliczenia przedmiotu, otrzymuje ocenę końcową wynikającą z tabeli. W takim przypadku do protokołu z ćwiczeń wpisywana jest ocena 3.0.
 
-W przypadku naruszenia przez studenta/kę zasad etycznych obowiązujących na Uniwersytecie lub ustalonych na zajęciach (np. niesamodzielna praca na kolokwium, przesyłanie kodu bez jego zrozumienia) prowadzący przedmiot zastrzegają sobie prawo do podjęcia proporcjonalnych działań, które mogą obejmować m.in.: unieważnienie punktów za konkretne zadanie lub kolokwium, unieważnienie punktów za wszystkie zadania lub kolokwia, a także niezaliczenie przedmiotu.
+## Skala ocen
+
+Ocena końcowa z ćwiczeń wyznaczana jest na podstawie uzyskanych punktów (maks. 60), a ocena końcowa z przedmiotu – na podstawie sumy punktów z ćwiczeń i egzaminu (maks. 100). W obu przypadkach stosowana jest ta sama skala procentowa:
+
+| Procent punktów | Ocena |
+|:---:|:---:|
+| [0%, 50%) | ndst |
+| [50%, 60%) | dst |
+| [60%, 70%) | dst+ |
+| [70%, 80%) | db |
+| [80%, 90%) | db+ |
+| [90%, 100%] | bdb |
+
+
+## Pozostałe zasady
+
+Przy obronie programów oraz podczas egzaminu wymagana jest pełna znajomość napisanego kodu, zrozumienie jego działania oraz wiedza dotycząca obowiązkowego materiału omawianego na wykładach.
+
+Korzystanie z narzędzi sztucznej inteligencji (takich jak ChatGPT, Claude czy GitHub Copilot) na zajęciach jest dozwolone. Są to istotne narzędzia w pracy programisty i umiejętność posługiwania się nimi jest ważna. Należy mieć przy tym świadomość ich ograniczeń – mogą popełniać błędy, a poleganie wyłącznie na nich utrudnia opanowanie materiału.
+
+
+W przypadku naruszenia przez studenta/kę zasad etycznych obowiązujących na Uniwersytecie lub ustalonych na zajęciach (np. niesamodzielna praca na kolokwium, przesłanie kodu bez jego zrozumienia) prowadzący przedmiot zastrzegają sobie prawo do podjęcia proporcjonalnych działań, które mogą obejmować m.in.: unieważnienie punktów za konkretne zadanie lub kolokwium, unieważnienie punktów za wszystkie zadania lub kolokwia, a także niezaliczenie przedmiotu.
