@@ -2,16 +2,16 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read all CSV files
-df_python = pd.read_csv('lecture_1/search_results_python.csv')
-df_cpp = pd.read_csv('lecture_1/search_results_cpp.csv')
-df_numpy = pd.read_csv('lecture_1/search_results_numpy.csv')
+df_python = pd.read_csv('search_results_python.csv')
+df_cpp = pd.read_csv('search_results_cpp.csv')
+df_numpy = pd.read_csv('search_results_numpy.csv')
 
 # Create the plot
 fig, ax = plt.subplots(figsize=(12, 8))
 
 # Plot Python results
-# ax.scatter(df_python['Size'], df_python['LinearTime'], alpha=0.6, label='Python Linear Search', marker='o')
-# ax.scatter(df_python['Size'], df_python['BinaryTime'], alpha=0.6, label='Python Binary Search', marker='s')
+ax.scatter(df_python['Size'], df_python['LinearTime'], alpha=0.6, label='Python Linear Search', marker='o')
+ax.scatter(df_python['Size'], df_python['BinaryTime'], alpha=0.6, label='Python Binary Search', marker='s')
 
 # Plot C++ results
 ax.scatter(df_cpp['Size'], df_cpp['LinearTime'], alpha=0.6, label='C++ Linear Search', marker='^')
@@ -30,7 +30,7 @@ ax.legend(loc='upper left')
 
 # Save the plot
 plt.tight_layout()
-plt.savefig('lecture_1/search_comparison_all.png', dpi=300, bbox_inches='tight')
+plt.savefig('search_comparison_all.png', dpi=300, bbox_inches='tight')
 plt.close()
 
 # Print statistics for all implementations

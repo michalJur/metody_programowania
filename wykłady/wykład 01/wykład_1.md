@@ -39,7 +39,7 @@
 
 
 <!-- 
-"in" wolniejszy od binary search, bo nie zakłąda posortowanych danych i przeszukuje liniowo
+"in" wolniejszy od binary search, bo nie zakłada posortowanych danych i przeszukuje liniowo
 
 Komentarz pod video: The point made at 14:30 is arguably the most important part of this video. Specifically, it is less important to know how to write, from scratch, a particular algorithm than it is to know that different algorithms have different tradeoffs. Knowing how to pick the best algorithm (and data structures) for a particular situation is more important than being able to implement an algorithm on a whiteboard.
 -->

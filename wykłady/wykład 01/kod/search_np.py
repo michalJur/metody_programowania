@@ -28,7 +28,7 @@ def main():
     size = sizes_skip
     sizes = [size + i * sizes_skip for i in range(sizes_count)]
 
-    with open('lecture_1/search_results_numpy.csv', 'w', newline='') as outfile:
+    with open('search_results_numpy.csv', 'w', newline='') as outfile:
         writer = csv.writer(outfile)
         writer.writerow(['Size', 'Run', 'Target', 'LinearTime', 'BinaryTime', 'LinearResult', 'BinaryResult'])
 
