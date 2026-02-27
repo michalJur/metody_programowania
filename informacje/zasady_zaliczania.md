@@ -5,13 +5,11 @@ Zaliczone kursy: Programowanie I oraz Wstęp do informatyki.
 
 ## Zasady zaliczania ćwiczeń
 
-Student/ka otrzymuje ocenę końcową z ćwiczeń na podstawie punktów przyznawanych za:
+Łącznie z ćwiczeń można uzyskać 60 punktów. Są to punkty przyznawane za:
 - dwa wspólne kolokwia pisemne (2 × 12 pkt = 24 pkt),
 - cztery wspólne programy zaliczeniowe (4 × 3 pkt = 12 pkt),
 - projekt programistyczny (12 pkt),
 - zadania domowe i aktywność na ćwiczeniach (12 pkt).
-
-Łącznie z ćwiczeń można uzyskać 60 punktów.
 
 Warunkiem uzyskania pozytywnej oceny z ćwiczeń jest spełnienie – do ostatniego dnia zajęć – następujących warunków:
 - uzyskanie z kolokwiów co najmniej 12 punktów,
