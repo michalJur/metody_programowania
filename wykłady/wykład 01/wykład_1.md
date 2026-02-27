@@ -16,6 +16,10 @@
   https://realpython.com/
   > Bardziej szczegółowe materiały o konkretnych tematach.
 
+- ### (d) Kanał Corey'ego Schafera na YouTube
+  https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
+  > Wysokiej jakości filmy, często o bardziej zaawansowanej tematyce.
+
 - ### (d) Popularność Pythona - ankieta Stack Overflow
   https://survey.stackoverflow.co/
 
