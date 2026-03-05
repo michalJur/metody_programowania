@@ -8,8 +8,6 @@
 
 W tym repozytorium znajdują się materiały z wykładu i ćwiczeń dla kursu ,,Metody Programowania". Kurs jest prowadzony dla studentów informatyki na Wydziale Matematyki i Informatyki Uniwersytetu Jagiellońskiego.
 
-Część materiałów (tak jak powyższa ilustracja) wygenerowana jest przy użyciu AI, ale wszystkie one są sprawdzone, skorygowane i uzupełnione przez wykładowcę.
-
 ### Tematyka kursu
 
 - podstawowe algorytmy (np. wyszukiwanie, sortowanie) oraz abstrakcyjne struktury danych (np. listy, kolejki, drzewa, grafy) oraz metody ich realizacji w nowoczesnych językach programowania,

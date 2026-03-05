@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=g2o22C3CRfU
 ### Komentarze
 - złożoność może odnosić się do różnych zasobów, zazwyczaj czasu (liczba operacji) i pamięci (liczba komórek pamięci)
 - definicja złożoności optymistycznej - analogicznie, ale z $inf$
-- zbiór danych D w definicji może być indeksowany rozmiarem danych n (np. D_n := tablice liczb rzeczywistych o rozmiarze n)
+- zbiór danych D w definicji może być indeksowany rozmiarem danych n (np. $D_n$ := tablice liczb rzeczywistych o rozmiarze n)
 - możemy wyznaczyć złożoność optymistyczną ($opt$) / pesymistyczną  ($pes$) / oczekiwaną ($exp$) dla danych o określonym rozmiarze (i tak zazwyczaj robimy)
 - $opt(n) := \inf\{f(d):d\in D_n\}$
 - $pes(n) := \sup\{f(d):d\in D_n\}$
